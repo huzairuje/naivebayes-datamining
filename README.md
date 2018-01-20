@@ -2,8 +2,8 @@
 
 how to install
 
-    "git clone https://github.com/huzairuje/klorofil-withfrontend klorofil/"
-    cd klorofil/
+    "git clone https://github.com/huzairuje/naivebayes-datamining.git"
+    cd FOLDER_NAME/
     composer install
     cp .env.example .env
     php artisan key:generate on command line
